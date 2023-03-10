@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UnivAssurance.webAPI</name>
+    </assembly>
+    <members>
+        <member name="M:UnivAssurance.webAPI.Controllers.PersonController.addPerson(System.Object)">
+            <summary>
+             Recuperation de données
+            </summary>
+        </member>
+        <member name="M:UnivAssurance.webAPI.Controllers.PersonController.UpdatePerson(UnivAssurance.DataAccess.Models.Person)">
+            <summary>
+             Recuperation de données
+            </summary>
+        </member>
+        <member name="T:UnivAssurance.webAPI.Migrations.initialCreating">
+            <inheritdoc />
+        </member>
+        <member name="M:UnivAssurance.webAPI.Migrations.initialCreating.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:UnivAssurance.webAPI.Migrations.initialCreating.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:UnivAssurance.webAPI.Migrations.initialCreating.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

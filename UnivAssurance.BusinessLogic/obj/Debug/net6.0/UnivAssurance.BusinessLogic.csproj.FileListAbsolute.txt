@@ -1,0 +1,15 @@
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.BusinessLogic\bin\Debug\net6.0\UnivAssurance.BusinessLogic.deps.json
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.BusinessLogic\bin\Debug\net6.0\UnivAssurance.BusinessLogic.dll
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.BusinessLogic\bin\Debug\net6.0\UnivAssurance.BusinessLogic.pdb
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.BusinessLogic\bin\Debug\net6.0\UnivAssurance.DataAccess.dll
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.BusinessLogic\bin\Debug\net6.0\UnivAssurance.DataAccess.pdb
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.BusinessLogic\obj\Debug\net6.0\UnivAssurance.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.BusinessLogic\obj\Debug\net6.0\UnivAssurance.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.BusinessLogic\obj\Debug\net6.0\UnivAssurance.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.BusinessLogic\obj\Debug\net6.0\UnivAssurance.BusinessLogic.AssemblyInfo.cs
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.BusinessLogic\obj\Debug\net6.0\UnivAssurance.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.BusinessLogic\obj\Debug\net6.0\UnivAssurance.BusinessLogic.csproj.CopyComplete
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.BusinessLogic\obj\Debug\net6.0\UnivAssurance.BusinessLogic.dll
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.BusinessLogic\obj\Debug\net6.0\refint\UnivAssurance.BusinessLogic.dll
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.BusinessLogic\obj\Debug\net6.0\UnivAssurance.BusinessLogic.pdb
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.BusinessLogic\obj\Debug\net6.0\ref\UnivAssurance.BusinessLogic.dll

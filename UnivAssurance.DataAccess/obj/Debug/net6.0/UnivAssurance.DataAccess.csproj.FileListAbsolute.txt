@@ -1,0 +1,12 @@
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.DataAccess\bin\Debug\net6.0\UnivAssurance.DataAccess.deps.json
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.DataAccess\bin\Debug\net6.0\UnivAssurance.DataAccess.dll
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.DataAccess\bin\Debug\net6.0\UnivAssurance.DataAccess.pdb
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.DataAccess\obj\Debug\net6.0\UnivAssurance.DataAccess.csproj.AssemblyReference.cache
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.DataAccess\obj\Debug\net6.0\UnivAssurance.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.DataAccess\obj\Debug\net6.0\UnivAssurance.DataAccess.AssemblyInfoInputs.cache
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.DataAccess\obj\Debug\net6.0\UnivAssurance.DataAccess.AssemblyInfo.cs
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.DataAccess\obj\Debug\net6.0\UnivAssurance.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.DataAccess\obj\Debug\net6.0\UnivAssurance.DataAccess.dll
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.DataAccess\obj\Debug\net6.0\refint\UnivAssurance.DataAccess.dll
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.DataAccess\obj\Debug\net6.0\UnivAssurance.DataAccess.pdb
+C:\Users\INFI-STG5\Desktop\UNIV_ASSURANCE\UnivAssurance.DataAccess\obj\Debug\net6.0\ref\UnivAssurance.DataAccess.dll
